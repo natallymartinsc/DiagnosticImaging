@@ -24,6 +24,7 @@ This repository contains practice codes and implementations developed during the
 
 - `/classesCode/`: Contains practice code and algorithm implementations developed on class.
 - `/personalProjects/`: Applying the knowledge on personal projects.
+- `/finalProject/`: Final Project
 
 ## How to Use This Repository
 
